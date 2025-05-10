@@ -5,7 +5,7 @@ A simple calculator app.
 
 ## Installation  
 - A pre-built `.exe` is available for Windows.  
-- 🌟 [Download here](../../releases) and run `HolySight.exe`.  
+- 🌟 [Download here](../../releases) and run `calculatrice.exe`.  
 
 ## License
 MIT License. See [LICENSE](LICENSE).
